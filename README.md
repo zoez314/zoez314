@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real-world data analysis
 - 📫 How to reach me: LinkdedIn Zoe Zhou
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have two dogs and I love them
+- ⚡ Fun fact: I have two dogs and I love them🛀🏼
 
 <!---
 zoez314/zoez314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

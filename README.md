@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zoez314
+- 👋 Hi, I’m @zoez314👋
 - 👀 I’m interested in Python, SQL and visualization
 - 🌱 I’m currently learning Data Analytics in GMU master program
 - 💞️ I’m looking to collaborate on real-world data analysis
